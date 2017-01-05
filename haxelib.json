@@ -1,0 +1,15 @@
+{
+  "name": "hxnodejs-passport",
+  "url": "https://github.com/proletariatgames/hxnodejs-passport",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["nodejs", "passport", "oauth"],
+  "description": "Externs for the passport NPM module",
+  "releasenote": "Initial release",
+  "version": "0.3.0-alpha",
+  "contributors": ["Proletariat", "lpetre", "danogles", "waneck"],
+  "dependencies": {
+    "hxnodejs": "",
+    "express": ""
+  }
+}
